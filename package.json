@@ -1,0 +1,25 @@
+{
+  "name": "learnyounode-solution",
+  "version": "1.0.0",
+  "description": "learnyounode tutorial",
+  "main": "task1.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bl": "^1.2.1",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idan Mosseri",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mosseridan/LearnYouNode-solution.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mosseridan/LearnYouNode-solution/issues"
+  },
+  "homepage": "https://github.com/Mosseridan/LearnYouNode-solution#readme"
+}
